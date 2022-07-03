@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ManideepADFTutorialDataFactory"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureHDInsightLinkedService_clusterPassword": {
+			"value": ""
+		},
+		"AzureHDInsightLinkedService_clusterSshPassword": {
+			"value": ""
+		},
+		"AzureHDInsightLinkedService_servicePrincipalKey": {
+			"value": ""
+		},
+		"AzureHDInsightLinkedService_properties_typeProperties_hostSubscriptionId": {
+			"value": "ae0e513c-af7b-46c5-ad8d-f5f540fa3d46"
+		},
+		"AzureHDInsightLinkedService_properties_typeProperties_clusterResourceGroup": {
+			"value": "Projects"
+		},
+		"AzureHDInsightLinkedService_properties_typeProperties_servicePrincipalId": {
+			"value": "76fd06de-0994-402c-bd3e-ea026c970572"
+		},
+		"AzureHDInsightLinkedService_properties_typeProperties_tenant": {
+			"value": "1d915f78-8891-4e8f-a49c-e2caa544b388"
+		},
+		"AzureHDInsightLinkedService_properties_typeProperties_clusterUserName": {
+			"value": "Mani_Prj_Cluster"
+		}
+	}
+}

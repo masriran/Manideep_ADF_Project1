@@ -1,0 +1,9 @@
+{
+	"name": "ManideepADFTutorialDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "441fb809-9458-4004-a12e-0372d7077894",
+		"tenantId": "1d915f78-8891-4e8f-a49c-e2caa544b388"
+	}
+}
